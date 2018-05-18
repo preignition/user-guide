@@ -1,4 +1,4 @@
-# User-Guide
+# Introduction
 
 ## Why this document?
 
@@ -7,6 +7,4 @@
 ## Audience ?
 
 ... audience
-
-
 
