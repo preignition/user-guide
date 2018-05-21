@@ -6,7 +6,9 @@ description: How to edit and use program batches.
 
 Batches are a way to automatically group businesses according to their application date. A business can only belong to one batch. When a business apply to a `program`, it is automatically added as a member of the active batch. Only a single batch can be the active batch.
 
-_Note_: Podio uses the term `cohort` for the same concept. I prefer keeping `cohort` for later stage \(post-analysis\) business grouping.
+{% hint style="info" %}
+Podio uses the term `cohort` for the same concept. Preignition keeps `cohort` for later stage \(post-analysis\) business grouping.
+{% endhint %}
 
 ## Managing Batches
 
