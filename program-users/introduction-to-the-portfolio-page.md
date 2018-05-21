@@ -1,7 +1,3 @@
----
-description: Introducing portfolio management tools
----
-
 # Introduction to the portfolio page
 
 * Go to [preignition.org](https://preignition.org) and sign-in using your email and password \(alternatively your gmail or facebook account\)

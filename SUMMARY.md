@@ -3,12 +3,14 @@
 * [Introduction](README.md)
 
 ## Entrepreneurs
+
 * [Applying to a program](entrepreneurs/applying-to-a-program.md)
 * [Entrepreneur space](entrepreneurs/entrepreneur-space.md)
 * [Sign-in into your account](entrepreneurs/sign-in-into-your-account.md)
 * [What happens if i forget my password?](entrepreneurs/what-happens-if-i-forget-my-password.md)
 
 ## Program Users
+
 * [Introduction to the portfolio page](program-users/introduction-to-the-portfolio-page.md)
 * [Introduction to the selection page](program-users/introduction-to-the-selection-page.md)
 * [Reviewing a business](program-users/reviewing-a-business.md)
@@ -34,6 +36,5 @@
 
 ## Misc
 
-* [Difference between test site and production site](misc/Difference-between-test-site-and-production-side.md)
-
+* Difference between test site and production site
 

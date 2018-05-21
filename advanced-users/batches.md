@@ -1,5 +1,5 @@
 ---
-description: How to automatically group businesses according to their registration date
+description: How to edit and use program batches.
 ---
 
 # Batches
