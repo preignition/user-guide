@@ -42,3 +42,5 @@ When a business tries to apply to a program and the current batch is not open, i
 
 Businesses can indicate their interest by providing an email address
 
+
+
