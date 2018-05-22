@@ -27,7 +27,7 @@ description: This section introduces users to the selection page
 ![](../.gitbook/assets/image%20%289%29.png)
 
 {% hint style="info" %}
-Programs are able to define their own selection process to it may have more or less stages than shown above.   Refer to '[Creating or editing a selection process](https://docs.preignition.org/~/edit/primary/creating-or-editing-a-selection-process)' for further guidance 
+Programs are able to define their own selection process so it may have more or less stages than shown above.   Refer to '[Creating or editing a selection process](https://docs.preignition.org/~/edit/primary/creating-or-editing-a-selection-process)' for further guidance 
 {% endhint %}
 
 ### Step 4- Using the selection dashboard to filter businesses
