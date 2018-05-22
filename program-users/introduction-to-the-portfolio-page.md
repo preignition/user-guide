@@ -10,7 +10,7 @@ description: >-
 
 * Go to [www.preignition.org](https://preignition.org/main/home) and sign in using your email and password
 
-![Arrow shows where to sign in](../.gitbook/assets/image%20%286%29.png)
+![Arrow shows where to sign in](../.gitbook/assets/image%20%287%29.png)
 
 * 'Portfolio’ and ‘Admin’ appear as additional options on the menu
 * Select ‘Portfolio’
@@ -21,11 +21,11 @@ description: >-
 
 * Four main options appear as shown below
 
-![](../.gitbook/assets/image%20%2813%29.png)
+![](../.gitbook/assets/image%20%2815%29.png)
 
 ### Step 3- Selection
 
-![Entry point for managing the selection process](../.gitbook/assets/image%20%2821%29.png)
+![Entry point for managing the selection process](../.gitbook/assets/image%20%2823%29.png)
 
 * This section enables an user to manage the selection process for a particular program
 * The graph shows the number of businesses that have applied to the program in the last month
@@ -36,7 +36,7 @@ Refer to the [‘introduction to the selection page](https://docs.preignition.or
 
 ### Step 4- Monitor
 
-![Entry point for monitoring activity on the program](../.gitbook/assets/image%20%2829%29.png)
+![Entry point for monitoring activity on the program](../.gitbook/assets/image%20%2831%29.png)
 
 * This section enables a user to monitor recent activity on the program and performance of the application
 
@@ -46,7 +46,7 @@ This feature is under development
 
 ### Step 5- Resources
 
-![Entry point for managing program resources](../.gitbook/assets/image%20%2819%29.png)
+![Entry point for managing program resources](../.gitbook/assets/image%20%2821%29.png)
 
 * This section allows users to set up and manage key resources such as surveys, work flows, notifications etc
 
@@ -56,7 +56,7 @@ See the ‘[introduction to the resources page](https://docs.preignition.org/~/e
 
 ### Step 6- Businesses
 
-![Entry point for reporting](../.gitbook/assets/image%20%2830%29.png)
+![Entry point for reporting](../.gitbook/assets/image%20%2832%29.png)
 
 * This section will allow users to report on the progress of an individual business, a cohort of businesses or the overall program
 * Users will also be able to access detailed information on individual businesses

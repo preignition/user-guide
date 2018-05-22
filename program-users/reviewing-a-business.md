@@ -6,7 +6,7 @@ description: This section describes how users can review a business
 
 ### Step 1- Select the ‘review’ node in a selection process
 
-![](../.gitbook/assets/image%20%2822%29.png)
+![](../.gitbook/assets/image%20%2824%29.png)
 
 
 
@@ -16,13 +16,27 @@ description: This section describes how users can review a business
 
 * If required, a user can use the selection dashboard to filter the businesses to be reviewed.
 
-![In this example only agribusinesses which are limited by shares have been selected](../.gitbook/assets/image%20%285%29.png)
+![In this example only agribusinesses which are limited by shares have been selected](../.gitbook/assets/image%20%286%29.png)
 
 ### Step 3- Access detailed information submitted by a business
 
-![](../.gitbook/assets/image%20%2811%29.png)
+![](../.gitbook/assets/image%20%2813%29.png)
 
 
 
-![](../.gitbook/assets/image%20%2826%29.png)
+![](../.gitbook/assets/image%20%2828%29.png)
+
+{% hint style="warning" %}
+In the future a reviewer will be able to ‘score’ narrative answers directly from this page
+{% endhint %}
+
+### Step 4- Assign a business to a pre-review 'category'
+
+* If the reviewer has reviewed a business but doesn’t want to change its status yet, they can assign it to a pre-review category
+
+![In this example the business has been categorized as &apos;pre-selected&apos;](../.gitbook/assets/image%20%285%29.png)
+
+* The list can then be filtered to show businesses based on their pre-review status.
+
+![The example shows 4 businesses that have been &#x2018;pre-selected&#x2019;](../.gitbook/assets/image%20%2812%29.png)
 
