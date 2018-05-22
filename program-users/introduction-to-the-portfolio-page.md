@@ -6,26 +6,24 @@ description: >-
 
 # Introduction to the portfolio page
 
-### Step 1
+### Step 1- Logging on
 
 * Go to [www.preignition.org](https://preignition.org/main/home) and sign in using your email and password
 
 ![Arrow shows where to sign in](../.gitbook/assets/image%20%283%29.png)
-
-### Step 2
 
 * 'Portfolio’ and ‘Admin’ appear as additional options on the menu
 * Select ‘Portfolio’
 
 ![](../.gitbook/assets/image.png)
 
-### Step 3
+### Step 2- Overview of the portfolio page
 
 * Four main options appear as shown below
 
 ![](../.gitbook/assets/image%20%286%29.png)
 
-### Step 4
+### Step 3- Selection
 
 ![Entry point for managing the selection process](../.gitbook/assets/image%20%2813%29.png)
 
@@ -36,7 +34,7 @@ description: >-
 Refer to the [‘introduction to the selection page](https://docs.preignition.org/~/edit/primary/program-users/introduction-to-the-selection-page)’ for more details
 {% endhint %}
 
-### Step 5
+### Step 4- Monitor
 
 ![Entry point for monitoring activity on the program](../.gitbook/assets/image%20%2816%29.png)
 
@@ -46,7 +44,7 @@ Refer to the [‘introduction to the selection page](https://docs.preignition.or
 This feature is under development
 {% endhint %}
 
-### Step 6
+### Step 5- Resources
 
 ![Entry point for managing program resources](../.gitbook/assets/image%20%2811%29.png)
 
@@ -56,7 +54,7 @@ This feature is under development
 See the ‘[introduction to the resources page](https://docs.preignition.org/~/edit/primary/program-users/introduction-to-resources-page)’ for more details
 {% endhint %}
 
-### Step 7
+### Step 6- Businesses
 
 ![Entry point for reporting](../.gitbook/assets/image%20%2817%29.png)
 
