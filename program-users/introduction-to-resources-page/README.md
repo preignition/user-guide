@@ -21,7 +21,11 @@ description: This section introduces users to the resources page
 
 ![](../../.gitbook/assets/image%20%2841%29.png)
 
-* Separate  guidance notes provide more information about each type of resource
+### Step 4- Detailed guidance notes for resources
 
-
+* Detailed guidance notes are provided for each type of resource
+* [Testing and editing surveys](https://docs.preignition.org/~/edit/primary/advanced-users/testing-and-editing-surveys)
+* [Creating and editing a selection process](https://docs.preignition.org/~/edit/primary/advanced-users/creating-or-editing-a-selection-process)
+* [Creating and editing categories](https://docs.preignition.org/~/edit/primary/advanced-users/batches/categories)
+* Creating and editing [notifications](https://docs.preignition.org/~/edit/primary/program-users/introduction-to-resources-page/notifications)
 
