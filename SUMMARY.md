@@ -29,6 +29,7 @@
 
 * [Batches](advanced-users/batches.md)
 * [Testing and editing surveys](advanced-users/testing-and-editing-surveys.md)
+* Creating or editing a selection process
 
 ## Tenants
 
@@ -37,5 +38,4 @@
 ## Misc
 
 * Difference between test site and production site
-* Creating or editing a selection process
 
