@@ -11,14 +11,14 @@
 
 ## Program Users
 
-* [Introduction to the portfolio page](program-users/introduction-to-the-portfolio-page.md)
-* [Introduction to the selection page](program-users/introduction-to-the-selection-page.md)
-* [Reviewing a business](program-users/reviewing-a-business.md)
-* [Moving a business through the selection process](program-users/moving-a-business-through-the-selection-process.md)
+* [Introduction to the portfolio page](program-users/introduction-to-the-portfolio-page/README.md)
+  * [Introduction to the selection page](program-users/introduction-to-the-portfolio-page/introduction-to-the-selection-page/README.md)
+    * [Reviewing a business](program-users/introduction-to-the-portfolio-page/introduction-to-the-selection-page/reviewing-a-business.md)
+    * [Moving a business through the selection process](program-users/introduction-to-the-portfolio-page/introduction-to-the-selection-page/moving-a-business-through-the-selection-process.md)
+* [Introduction to resources page](program-users/introduction-to-resources-page/README.md)
+  * [Notifications](program-users/introduction-to-resources-page/notifications.md)
 * [Stewards](program-users/stewards.md)
-* [Introduction to resources page](program-users/introduction-to-resources-page.md)
 * [Categories](program-users/categories.md)
-* [Notifications](program-users/notifications.md)
 * [Editing user profiles](program-users/editing-user-profiles.md)
 * [Changing active portfolio](program-users/changing-active-portfolio.md)
 * Introduction to Admin
@@ -28,8 +28,8 @@
 ## Advanced Users
 
 * [Batches](advanced-users/batches.md)
-* [Testing and editing surveys](advanced-users/testing-and-editing-surveys.md)
 * Creating or editing a selection process
+* [Testing and editing surveys](advanced-users/testing-and-editing-surveys.md)
 
 ## Tenants
 
