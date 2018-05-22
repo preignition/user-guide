@@ -17,7 +17,7 @@ description: This section introduces users to the selection page
 
 ![](../.gitbook/assets/image%20%2825%29.png)
 
-| **Selection** | Gives an overview of the entire selection process.  Nodes activated when clicked on |  |
+| **Selection** | Gives an overview of the entire selection process.   |  |
 | --- | --- | --- |
 | **Profile** | Shows key information about the businesses at a particular stage in the selection process.  Variables can be used to further filter business list |  |
 | **Business List** | Shows name of relevant businesses based on selection stage and business profile |  |
