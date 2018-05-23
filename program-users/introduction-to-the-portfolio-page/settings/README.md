@@ -1,5 +1,7 @@
 ---
-description: This page introduces users to the Settings Page
+description: >-
+  This page introduces the Settings Page.  It is intended for Program Users and
+  Advanced Users.
 ---
 
 # Settings
