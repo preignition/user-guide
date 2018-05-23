@@ -1,5 +1,7 @@
 ---
-description: This page introduces users to the Businesses Page
+description: >-
+  This page introduces the Businesses Page.  It is intended for Program Users
+  and Advanced Users.
 ---
 
 # Businesses
