@@ -14,7 +14,7 @@ Examples of reports include:
 
 * Portfolio reports showing the key characteristics of a group of businesses at a point in time
 
-![Early version of a portfolio report](../../.gitbook/assets/image%20%2853%29.png)
+![Early version of a portfolio report](../../.gitbook/assets/image%20%2855%29.png)
 
 * Impact reports showing the progress a business or group of businesses has made over time
 * Bench marking reports showing how a business or group of businesses compares to a wider group.

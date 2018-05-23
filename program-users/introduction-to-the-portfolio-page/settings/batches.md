@@ -34,7 +34,7 @@ Users activate edit mode by clicking on a row in the grid:
 
 If a `From` date is set, the application process will be closed before this date. It is possible to provide a message to be displayed to users trying to apply before application opening:
 
-![Example of batch closing date](../../../.gitbook/assets/image%20%2843%29.png)
+![Example of batch closing date](../../../.gitbook/assets/image%20%2845%29.png)
 
 Similarly, setting a `To` date will prevent businesses to apply after the given date.
 
@@ -44,7 +44,7 @@ Similarly, setting a `To` date will prevent businesses to apply after the given 
 
 When a business tries to apply to a program and the current batch is not open, it will be provided with the appropriate notification:
 
-![Message informing users that the application process is currently closed](../../../.gitbook/assets/image%20%2852%29.png)
+![Message informing users that the application process is currently closed](../../../.gitbook/assets/image%20%2854%29.png)
 
 Businesses can indicate their interest by providing an email address
 

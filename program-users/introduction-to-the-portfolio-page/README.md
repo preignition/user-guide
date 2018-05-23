@@ -36,7 +36,7 @@ Refer to the [Selection](https://docs.preignition.org/~/edit/primary/program-use
 
 ### Step 4- Monitor
 
-![Entry point for monitoring activity on the program](../../.gitbook/assets/image%20%2845%29.png)
+![Entry point for monitoring activity on the program](../../.gitbook/assets/image%20%2847%29.png)
 
 * This section enables a user to monitor recent activity on the program and monitor the performance of the app
 
@@ -67,7 +67,7 @@ Refer to the[ Resources](https://docs.preignition.org/~/edit/primary/program-use
 
 ### Step 7- Settings
 
-![Entry point for managing a program&apos;s settings](../../.gitbook/assets/image%20%2842%29.png)
+![Entry point for managing a program&apos;s settings](../../.gitbook/assets/image%20%2843%29.png)
 
 * This section allows users to define and edit key settings for a program such as language, currency, user rights etc.
 

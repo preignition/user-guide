@@ -17,11 +17,11 @@ description: >-
 
 * Clicking on the ‘resources’ icon takes you though to the following screen
 
-![](../../../.gitbook/assets/image%20%2836%29.png)
+![](../../../.gitbook/assets/image%20%2837%29.png)
 
 ### Step 3- Resources explained
 
-![](../../../.gitbook/assets/image%20%2849%29.png)
+![](../../../.gitbook/assets/image%20%2851%29.png)
 
 ### Step 4- Detailed guidance notes for resources
 

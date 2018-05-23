@@ -1,12 +1,32 @@
+---
+description: >-
+  This page describes the difference between the test site and the production
+  site.  It is intended for Program Users and Advanced Users.
+---
+
 # Difference between test site and production site
 
-## Can I become who I want to be?
+### Production Site
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
+The main site for Preignition is hosted at [www.preignition.org ](https://preignition.org/main/home)
 
-## Have you had a chance to answer the previous question?
+![](../.gitbook/assets/image%20%2836%29.png)
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+* The production site contains live data, ie actual entrepreneurs applying for actual programs.
+* The production site should be stable at all times.
 
+### Test Site
 
+The test site for Preignition is hosted at [https://readiness.firebaseapp.com](https://readiness.firebaseapp.com/main/home)
+
+![](../.gitbook/assets/image%20%2844%29.png)
+
+* The test site contains test data.
+* New features are developed and tested on the test site
+* The test site will sometimes be unstable as new features are tested
+* When new features have been fully tested they will be release on the Production site
+
+{% hint style="danger" %}
+Make sure not to mix up the Production Site and the Test Site.  
+{% endhint %}
 

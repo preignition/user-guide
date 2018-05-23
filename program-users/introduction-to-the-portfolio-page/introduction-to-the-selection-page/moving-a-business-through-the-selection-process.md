@@ -8,7 +8,7 @@ description: >-
 
 ### Step 1- On a 'review' node, click on the box beside a business name.
 
-![A single or multiple businesses can be selected](../../../.gitbook/assets/image%20%2851%29.png)
+![A single or multiple businesses can be selected](../../../.gitbook/assets/image%20%2853%29.png)
 
 {% hint style="info" %}
 Only users with appropriate authorization rights can change the status of a business
@@ -34,7 +34,7 @@ The options are always to reject the business or move it to the next stage in th
 
 ### Step 4- Refresh the page
 
-![](../../../.gitbook/assets/image%20%2838%29.png)
+![](../../../.gitbook/assets/image%20%2839%29.png)
 
 * The page needs to be refreshed in order for these changes to take effect.  In the future this will happen automatically
 
