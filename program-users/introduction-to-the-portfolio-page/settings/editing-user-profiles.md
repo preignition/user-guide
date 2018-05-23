@@ -1,4 +1,4 @@
-# User profiles
+# My profile
 
 content under development
 

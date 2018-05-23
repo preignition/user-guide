@@ -20,7 +20,7 @@
   * [Resources](program-users/introduction-to-the-portfolio-page/introduction-to-resources-page/README.md)
     * [Notifications](program-users/introduction-to-the-portfolio-page/introduction-to-resources-page/notifications.md)
   * [Settings](program-users/introduction-to-the-portfolio-page/settings/README.md)
-    * [User profiles](program-users/introduction-to-the-portfolio-page/settings/editing-user-profiles.md)
+    * [My profile](program-users/introduction-to-the-portfolio-page/settings/editing-user-profiles.md)
 * [Stewards](program-users/stewards.md)
 * [Changing active portfolio](program-users/changing-active-portfolio.md)
 * Introduction to Admin
