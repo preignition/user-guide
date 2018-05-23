@@ -1,7 +1,7 @@
 ---
 description: >-
-  This section describes how users can move a business through a selection
-  process
+  This section describes how to move a business through a selection process.  It
+  is intended for Program Users and Advanced Users
 ---
 
 # Moving a business through the selection process
