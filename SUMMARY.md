@@ -21,7 +21,9 @@
     * [Notifications](program-users/introduction-to-the-portfolio-page/introduction-to-resources-page/notifications.md)
   * [Settings](program-users/introduction-to-the-portfolio-page/settings/README.md)
     * Profile
+    * Presentation
     * [My profile](program-users/introduction-to-the-portfolio-page/settings/editing-user-profiles.md)
+  * Members
 * [Stewards](program-users/stewards.md)
 * [Changing active portfolio](program-users/changing-active-portfolio.md)
 * Introduction to Admin
@@ -37,5 +39,4 @@
 ## FAQ
 
 * [Difference between test site and production site](misc/difference-between-test-site-and-production-site.md)
-* Presentation
 
