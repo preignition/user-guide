@@ -7,7 +7,7 @@ description: This section introduces users to the resources page
 ### Step 1- Accessing the resources page
 
 * The resources page is accessed via the [portfolio page](https://docs.preignition.org/~/edit/primary/program-users/introduction-to-the-portfolio-page)
-* The name of the active program will be clearly indicated
+* The name of the active program is clearly indicated
 
 ![](../../../.gitbook/assets/image%20%2814%29.png)
 
