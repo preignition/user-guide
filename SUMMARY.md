@@ -26,7 +26,7 @@
     * [Profile](program-users/introduction-to-the-portfolio-page/settings/profile.md)
     * Presentation
     * [My profile](program-users/introduction-to-the-portfolio-page/settings/editing-user-profiles.md)
-    * Members
+    * [Members](program-users/introduction-to-the-portfolio-page/settings/members.md)
     * Labels
     * Communication
     * [Batches](program-users/introduction-to-the-portfolio-page/settings/batches.md)
