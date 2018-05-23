@@ -1,7 +1,7 @@
 ---
 description: >-
-  This section introduces users to the main features accessible on the portfolio
-  page
+  This section introduces the main features accessible on the portfolio page. It
+  is intended for Program Users and Advanced Users
 ---
 
 # Portfolio

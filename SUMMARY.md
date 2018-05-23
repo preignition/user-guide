@@ -7,9 +7,8 @@
 * [Applying to a program](entrepreneurs/applying-to-a-program.md)
 * [Entrepreneur space](entrepreneurs/entrepreneur-space.md)
 * [Sign-in into your account](entrepreneurs/sign-in-into-your-account.md)
-* [What happens if i forget my password?](entrepreneurs/what-happens-if-i-forget-my-password.md)
 
-## Program Users
+## USERS \(PROGRAM AND ADVANCED\)
 
 * [Portfolio](program-users/introduction-to-the-portfolio-page/README.md)
   * [Selection](program-users/introduction-to-the-portfolio-page/introduction-to-the-selection-page/README.md)
@@ -31,13 +30,15 @@
     * Communication
     * [Batches](program-users/introduction-to-the-portfolio-page/settings/batches.md)
 * Introduction to Admin
+  * [Introduction to tenant page](program-users/introduction-to-admin/introduction-to-tenant-page.md)
 
-## Advanced Users
+## USERS FAQ
 
-* [Introduction to tenant page](advanced-users/introduction-to-tenant-page.md)
+* [Difference between test site and production site](advanced-users/difference-between-test-site-and-production-site.md)
+* [Changing active portfolio](advanced-users/changing-active-portfolio.md)
 
-## FAQ
+## Entrepreneurs FAQ
 
-* [Difference between test site and production site](misc/difference-between-test-site-and-production-site.md)
-* [Changing active portfolio](misc/changing-active-portfolio.md)
+* [What happens if i forget my password?](misc/what-happens-if-i-forget-my-password.md)
+* Untitled
 
