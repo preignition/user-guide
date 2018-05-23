@@ -1,5 +1,7 @@
 ---
-description: This section introduces users to the Monior Page
+description: >-
+  This section introduces the Monitor Page.  It is intended for Program Users
+  and Advanced Users
 ---
 
 # Monitor
