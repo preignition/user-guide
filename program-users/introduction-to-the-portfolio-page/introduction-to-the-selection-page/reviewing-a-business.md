@@ -1,5 +1,7 @@
 ---
-description: This section describes how users can review a business
+description: >-
+  This section describes how to review a business.  It is intended for Program
+  Users and Advanced Users
 ---
 
 # Reviewing a business
