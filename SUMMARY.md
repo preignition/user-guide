@@ -26,13 +26,13 @@
 
 ## Advanced Users
 
-* [Batches](advanced-users/batches/README.md)
-  * [Categories](advanced-users/batches/categories.md)
+* [Batches](advanced-users/batches.md)
+* [Categories](advanced-users/categories.md)
 * Creating or editing a selection process
 * [Introduction to tenant page](advanced-users/introduction-to-tenant-page.md)
 * [Testing and editing surveys](advanced-users/testing-and-editing-surveys.md)
 
-## Misc
+## FAQ
 
 * Difference between test site and production site
 

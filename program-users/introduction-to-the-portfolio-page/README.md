@@ -1,7 +1,7 @@
 ---
 description: >-
-  This section introduces users to the main features accessible on the portfolio
-  page
+  This section introduces Program Users to the main features accessible on the
+  portfolio page
 ---
 
 # Introduction to the portfolio page
@@ -12,14 +12,14 @@ description: >-
 
 ![Arrow shows where to sign in](../../.gitbook/assets/image%20%288%29.png)
 
-* 'Portfolio’ and ‘Admin’ appear as additional options on the menu
+* 'Portfolio’ and ‘Admin’ appear as additional options on the main menu bar
 * Select ‘Portfolio’
 
 ![](../../.gitbook/assets/image.png)
 
 ### Step 2- Overview of the portfolio page
 
-* Four main options appear as shown below
+* Four main options appear 
 
 ![](../../.gitbook/assets/image%20%2818%29.png)
 
@@ -27,7 +27,7 @@ description: >-
 
 ![Entry point for managing the selection process](../../.gitbook/assets/image%20%2828%29.png)
 
-* This section enables an user to manage the selection process for a particular program
+* This feature enables an user to manage the selection process for a particular program
 * The graph shows the number of businesses that have applied to the program in the last month
 
 {% hint style="info" %}
