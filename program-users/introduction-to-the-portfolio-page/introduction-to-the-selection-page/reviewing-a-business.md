@@ -6,7 +6,7 @@ description: This section describes how users can review a business
 
 ### Step 1- Select the ‘review’ node in a selection process
 
-![](../../../.gitbook/assets/image%20%2831%29.png)
+![](../../../.gitbook/assets/image%20%2832%29.png)
 
 
 
@@ -24,7 +24,7 @@ description: This section describes how users can review a business
 
 
 
-![](../../../.gitbook/assets/image%20%2837%29.png)
+![](../../../.gitbook/assets/image%20%2838%29.png)
 
 {% hint style="warning" %}
 In the future a reviewer will be able to ‘score’ narrative answers directly from this page

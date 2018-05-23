@@ -15,7 +15,7 @@ description: This section introduces users to the selection page
 
 * Clicking on the ‘selection’ icon takes you though to the following screen
 
-![](../../../.gitbook/assets/image%20%2843%29.png)
+![](../../../.gitbook/assets/image%20%2845%29.png)
 
 | **Selection** | Gives an overview of the selection workflow.   |  |
 | --- | --- | --- |
@@ -35,7 +35,7 @@ Programs are able to define their own selection process so it may have more or l
 * The selection dashboard is interactive and can be used to filter the business list
 * In this example businesses can be filtered based on their batch, category, sector or registration type
 
-![](../../../.gitbook/assets/image%20%2836%29.png)
+![](../../../.gitbook/assets/image%20%2837%29.png)
 
 
 
@@ -50,7 +50,7 @@ Programs are able to define their own selection process so it may have more or l
 *  The surveys associated with a particular stage of the selection process are shown under 'Business List'
 *  Highlighting a survey will bring up a new column showing the % completion of the selected survey
 
-![As expected at the review stage, all surveys are 100% complete](../../../.gitbook/assets/image%20%2845%29.png)
+![As expected at the review stage, all surveys are 100% complete](../../../.gitbook/assets/image%20%2847%29.png)
 
 * Clicking on a business, brings up more details about the selected business
 

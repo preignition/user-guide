@@ -25,7 +25,7 @@ description: >-
 
 ### Step 3- Selection
 
-![Entry point for managing the selection process](../../.gitbook/assets/image%20%2830%29.png)
+![Entry point for managing the selection process](../../.gitbook/assets/image%20%2831%29.png)
 
 * This feature enables an user to manage the selection process for a particular program
 * The graph shows the number of businesses that have applied to the program in the last month
@@ -36,7 +36,7 @@ Refer to the [Selection](https://docs.preignition.org/~/edit/primary/program-use
 
 ### Step 4- Monitor
 
-![Entry point for monitoring activity on the program](../../.gitbook/assets/image%20%2841%29.png)
+![Entry point for monitoring activity on the program](../../.gitbook/assets/image%20%2842%29.png)
 
 * This section enables a user to monitor recent activity on the program and monitor the performance of the app
 
@@ -57,7 +57,7 @@ Refer to the [Businesses](https://docs.preignition.org/~/edit/primary/program-us
 
 ### Step 6- Resources
 
-![Entry point for managing program resources](../../.gitbook/assets/image%20%2827%29.png)
+![Entry point for managing program resources](../../.gitbook/assets/image%20%2828%29.png)
 
 * This section allows users to set up and manage key resources for a program such as surveys, work flows, notifications etc
 
@@ -67,7 +67,7 @@ Refer to the[ Resources](https://docs.preignition.org/~/edit/primary/program-use
 
 ### Step 7- Settings
 
-![Entry point for managing a program&apos;s settings](../../.gitbook/assets/image%20%2838%29.png)
+![Entry point for managing a program&apos;s settings](../../.gitbook/assets/image%20%2839%29.png)
 
 * This section allows users to define and edit key settings for a program such as language, currency, user rights etc.
 

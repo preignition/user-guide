@@ -16,7 +16,7 @@
     * [Reviewing a business](program-users/introduction-to-the-portfolio-page/introduction-to-the-selection-page/reviewing-a-business.md)
     * [Moving a business through the selection process](program-users/introduction-to-the-portfolio-page/introduction-to-the-selection-page/moving-a-business-through-the-selection-process.md)
   * [Monitor](program-users/introduction-to-the-portfolio-page/introduction-to-monitor-page.md)
-  * Businesses
+  * [Businesses](program-users/introduction-to-the-portfolio-page/businesses.md)
   * [Resources](program-users/introduction-to-the-portfolio-page/introduction-to-resources-page/README.md)
     * [Notifications](program-users/introduction-to-the-portfolio-page/introduction-to-resources-page/notifications.md)
   * Settings
