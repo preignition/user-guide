@@ -15,6 +15,7 @@
   * [Introduction to the selection page](program-users/introduction-to-the-portfolio-page/introduction-to-the-selection-page/README.md)
     * [Reviewing a business](program-users/introduction-to-the-portfolio-page/introduction-to-the-selection-page/reviewing-a-business.md)
     * [Moving a business through the selection process](program-users/introduction-to-the-portfolio-page/introduction-to-the-selection-page/moving-a-business-through-the-selection-process.md)
+* [Introduction to Monitor Page](program-users/introduction-to-monitor-page.md)
 * [Introduction to resources page](program-users/introduction-to-resources-page/README.md)
   * [Notifications](program-users/introduction-to-resources-page/notifications.md)
 * [Introduction to Settings](program-users/introduction-to-settings.md)
@@ -35,5 +36,4 @@
 ## FAQ
 
 * [Difference between test site and production site](misc/difference-between-test-site-and-production-site.md)
-* [Introduction to Monitor Page](misc/introduction-to-monitor-page.md)
 
