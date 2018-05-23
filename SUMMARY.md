@@ -12,6 +12,7 @@
 ## Program Users
 
 * [Portfolio](program-users/introduction-to-the-portfolio-page/README.md)
+  * Businesses
   * [Monitor](program-users/introduction-to-the-portfolio-page/introduction-to-monitor-page.md)
   * [Resources](program-users/introduction-to-the-portfolio-page/introduction-to-resources-page/README.md)
     * [Notifications](program-users/introduction-to-the-portfolio-page/introduction-to-resources-page/notifications.md)
@@ -36,5 +37,5 @@
 ## FAQ
 
 * [Difference between test site and production site](misc/difference-between-test-site-and-production-site.md)
-* Businesses
+* Settings
 
