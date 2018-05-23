@@ -18,7 +18,8 @@
   * [Businesses](program-users/introduction-to-the-portfolio-page/businesses.md)
   * [Resources](program-users/introduction-to-the-portfolio-page/introduction-to-resources-page/README.md)
     * [Surveys](program-users/introduction-to-the-portfolio-page/introduction-to-resources-page/testing-and-editing-surveys.md)
-    * Selection process
+    * [Survey Part](program-users/introduction-to-the-portfolio-page/introduction-to-resources-page/survey-part.md)
+    * [Selection process](program-users/introduction-to-the-portfolio-page/introduction-to-resources-page/creating-or-editing-a-selection-process.md)
     * [Categories](program-users/introduction-to-the-portfolio-page/introduction-to-resources-page/categories.md)
     * [Notifications](program-users/introduction-to-the-portfolio-page/introduction-to-resources-page/notifications.md)
   * [Settings](program-users/introduction-to-the-portfolio-page/settings/README.md)
