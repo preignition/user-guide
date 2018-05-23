@@ -9,13 +9,13 @@ description: This section introduces users to the selection page
 * The selection page is accessed via the [portfolio page](https://docs.preignition.org/~/edit/primary/program-users/introduction-to-the-portfolio-page)
 * The name of the active program is clearly indicated, as well as recent activity on the selection process
 
-![Showing the portfolio page for a &apos;Test Program&apos;](../../../.gitbook/assets/image%20%2822%29.png)
+![Showing the portfolio page for a &apos;Test Program&apos;](../../../.gitbook/assets/image%20%2824%29.png)
 
 ### Step 2- Overview of the selection page
 
 * Clicking on the ‘selection’ icon takes you though to the following screen
 
-![](../../../.gitbook/assets/image%20%2845%29.png)
+![](../../../.gitbook/assets/image%20%2848%29.png)
 
 | **Selection** | Gives an overview of the selection workflow.   |  |
 | --- | --- | --- |
@@ -24,7 +24,7 @@ description: This section introduces users to the selection page
 
 ### Step 3- Selection stages explained
 
-![](../../../.gitbook/assets/image%20%2818%29.png)
+![](../../../.gitbook/assets/image%20%2820%29.png)
 
 {% hint style="info" %}
 Programs are able to define their own selection process so it may have more or less stages than shown above.   Refer to '[Creating or editing a selection process](https://docs.preignition.org/~/edit/primary/creating-or-editing-a-selection-process)' for further guidance 
@@ -35,7 +35,7 @@ Programs are able to define their own selection process so it may have more or l
 * The selection dashboard is interactive and can be used to filter the business list
 * In this example businesses can be filtered based on their batch, category, sector or registration type
 
-![](../../../.gitbook/assets/image%20%2837%29.png)
+![](../../../.gitbook/assets/image%20%2840%29.png)
 
 
 
@@ -50,11 +50,11 @@ Programs are able to define their own selection process so it may have more or l
 *  The surveys associated with a particular stage of the selection process are shown under 'Business List'
 *  Highlighting a survey will bring up a new column showing the % completion of the selected survey
 
-![As expected at the review stage, all surveys are 100% complete](../../../.gitbook/assets/image%20%2847%29.png)
+![As expected at the review stage, all surveys are 100% complete](../../../.gitbook/assets/image%20%2850%29.png)
 
 * Clicking on a business, brings up more details about the selected business
 
-![](../../../.gitbook/assets/image%20%2815%29.png)
+![](../../../.gitbook/assets/image%20%2816%29.png)
 
 * From here completed surveys can be viewed
 

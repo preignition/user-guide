@@ -9,17 +9,17 @@ description: This section introduces users to the resources page
 * The resources page is accessed via the [portfolio page](https://docs.preignition.org/~/edit/primary/program-users/introduction-to-the-portfolio-page)
 * The name of the active program is clearly indicated
 
-![](../../../.gitbook/assets/image%20%2814%29.png)
+![](../../../.gitbook/assets/image%20%2815%29.png)
 
 ### Step 2- Overview of the resources page
 
 * Clicking on the ‘resources’ icon takes you though to the following screen
 
-![](../../../.gitbook/assets/image%20%2833%29.png)
+![](../../../.gitbook/assets/image%20%2836%29.png)
 
 ### Step 3- Resources explained
 
-![](../../../.gitbook/assets/image%20%2846%29.png)
+![](../../../.gitbook/assets/image%20%2849%29.png)
 
 ### Step 4- Detailed guidance notes for resources
 
