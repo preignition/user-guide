@@ -34,5 +34,6 @@
 
 ## FAQ
 
-* Difference between test site and production site
+* [Difference between test site and production site](misc/difference-between-test-site-and-production-site.md)
+* [Introduction to Monitor Page](misc/introduction-to-monitor-page.md)
 
