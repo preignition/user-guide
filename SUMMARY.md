@@ -27,8 +27,8 @@
     * Presentation
     * [My profile](program-users/introduction-to-the-portfolio-page/settings/editing-user-profiles.md)
     * [Members](program-users/introduction-to-the-portfolio-page/settings/members.md)
-    * Labels
-    * Communication
+    * [Labels](program-users/introduction-to-the-portfolio-page/settings/labels.md)
+    * [Communication](program-users/introduction-to-the-portfolio-page/settings/communication.md)
     * [Batches](program-users/introduction-to-the-portfolio-page/settings/batches.md)
 * Introduction to Admin
   * [Introduction to tenant page](program-users/introduction-to-admin/introduction-to-tenant-page.md)

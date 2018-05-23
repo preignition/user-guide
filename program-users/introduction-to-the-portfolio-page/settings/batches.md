@@ -1,13 +1,19 @@
 ---
-description: How to edit and use program batches.
+description: >-
+  This page described how to edit and use program batches.  It is intended for
+  Advanced Users only.
 ---
 
 # Batches
 
-Batches are a way to automatically group businesses according to their application date. A business can only belong to one batch. When a business apply to a `program`, it is automatically added as a member of the active batch. Only a single batch can be the active batch.
+{% hint style="danger" %}
+This page is Advanced Users only.
+{% endhint %}
+
+Batches are a way to automatically group businesses according to their application date. A business can only belong to one batch. When a business applies to a `program`, it is automatically added as a member of the active batch. Only a single batch can be the active batch.
 
 {% hint style="info" %}
-Podio uses the term `cohort` for the same concept. Preignition keeps `cohort` for later stage \(post-analysis\) business grouping.
+Podio uses the term `cohort` for the same concept. Preignition keeps `cohort` for later stage \(post-selection\) business grouping.
 {% endhint %}
 
 ## Managing Batches
