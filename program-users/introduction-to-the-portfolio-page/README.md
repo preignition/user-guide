@@ -38,7 +38,7 @@ Refer to the [Selection](https://docs.preignition.org/~/edit/primary/program-use
 
 ![Entry point for monitoring activity on the program](../../.gitbook/assets/image%20%2841%29.png)
 
-* This section enables a user to monitor recent activity on the program and performance of the application
+* This section enables a user to monitor recent activity on the program and monitor the performance of the app
 
 {% hint style="warning" %}
 Refer to the [Monitor](https://docs.preignition.org/~/edit/primary/program-users/introduction-to-the-portfolio-page/introduction-to-monitor-page) page for more details.  This feature is under development
