@@ -6,7 +6,7 @@ description: This section describes how users can review a business
 
 ### Step 1- Select the ‘review’ node in a selection process
 
-![](../../../.gitbook/assets/image%20%2829%29.png)
+![](../../../.gitbook/assets/image%20%2831%29.png)
 
 
 
@@ -20,11 +20,11 @@ description: This section describes how users can review a business
 
 ### Step 3- Access detailed information submitted by a business
 
-![](../../../.gitbook/assets/image%20%2816%29.png)
+![](../../../.gitbook/assets/image%20%2817%29.png)
 
 
 
-![](../../../.gitbook/assets/image%20%2835%29.png)
+![](../../../.gitbook/assets/image%20%2837%29.png)
 
 {% hint style="warning" %}
 In the future a reviewer will be able to ‘score’ narrative answers directly from this page
@@ -38,5 +38,5 @@ In the future a reviewer will be able to ‘score’ narrative answers directly 
 
 * The list can then be filtered to show businesses based on their pre-review status.
 
-![The example shows 4 businesses that have been &#x2018;pre-selected&#x2019;](../../../.gitbook/assets/image%20%2815%29.png)
+![The example shows 4 businesses that have been &#x2018;pre-selected&#x2019;](../../../.gitbook/assets/image%20%2816%29.png)
 

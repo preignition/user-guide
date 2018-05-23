@@ -19,13 +19,13 @@ description: >-
 
 ### Step 2- Overview of the portfolio page
 
-* Four main options appear 
+* Five main options appear 
 
-![](../../.gitbook/assets/image%20%2818%29.png)
+![Showing the portfolio page for a &apos;Test Program&apos;](../../.gitbook/assets/image%20%2811%29.png)
 
 ### Step 3- Selection
 
-![Entry point for managing the selection process](../../.gitbook/assets/image%20%2828%29.png)
+![Entry point for managing the selection process](../../.gitbook/assets/image%20%2830%29.png)
 
 * This feature enables an user to manage the selection process for a particular program
 * The graph shows the number of businesses that have applied to the program in the last month
@@ -36,7 +36,7 @@ Refer to the [introduction to the selection page](https://docs.preignition.org/~
 
 ### Step 4- Monitor
 
-![Entry point for monitoring activity on the program](../../.gitbook/assets/image%20%2838%29.png)
+![Entry point for monitoring activity on the program](../../.gitbook/assets/image%20%2841%29.png)
 
 * This section enables a user to monitor recent activity on the program and performance of the application
 
@@ -44,9 +44,20 @@ Refer to the [introduction to the selection page](https://docs.preignition.org/~
 Refer to the [Introduction to monitor page](https://docs.preignition.org/~/edit/primary/program-users/introduction-to-monitor-page) for more details.  This feature is under development
 {% endhint %}
 
-### Step 5- Resources
+### Step 5- Businesses
 
-![Entry point for managing program resources](../../.gitbook/assets/image%20%2825%29.png)
+![Entry point for reporting](../../.gitbook/assets/image%20%2820%29.png)
+
+* This section allows Program Users to report on the progress if an individual business, a cohort of businesses of the overall program.
+* Program Users are also able to access detailed information on an individual business
+
+{% hint style="warning" %}
+Refer to Introduction to Businesses for more details.  This feature is under development
+{% endhint %}
+
+### Step 6- Resources
+
+![Entry point for managing program resources](../../.gitbook/assets/image%20%2827%29.png)
 
 * This section allows users to set up and manage key resources such as surveys, work flows, notifications etc
 
@@ -54,14 +65,13 @@ Refer to the [Introduction to monitor page](https://docs.preignition.org/~/edit/
 See the ‘[introduction to the resources page](https://docs.preignition.org/~/edit/primary/program-users/introduction-to-resources-page)’ for more details
 {% endhint %}
 
-### Step 6- Businesses
+### Step 7- Settings
 
-![Entry point for reporting](../../.gitbook/assets/image%20%2839%29.png)
+![Entry point for managing a programs settings](../../.gitbook/assets/image%20%2838%29.png)
 
-* This section will allow users to report on the progress of an individual business, a cohort of businesses or the overall program
-* Users will also be able to access detailed information on individual businesses
+* This section allows users to define and edit key settings for a program such as language, currency, user rights etc.
 
-{% hint style="warning" %}
-This feature is under development
+{% hint style="info" %}
+See the introduction to settings page for more details 
 {% endhint %}
 
