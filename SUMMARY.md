@@ -18,26 +18,26 @@
   * [Monitor](program-users/introduction-to-the-portfolio-page/introduction-to-monitor-page.md)
   * [Businesses](program-users/introduction-to-the-portfolio-page/businesses.md)
   * [Resources](program-users/introduction-to-the-portfolio-page/introduction-to-resources-page/README.md)
+    * [Surveys](program-users/introduction-to-the-portfolio-page/introduction-to-resources-page/testing-and-editing-surveys.md)
+    * Selection process
+    * [Categories](program-users/introduction-to-the-portfolio-page/introduction-to-resources-page/categories.md)
     * [Notifications](program-users/introduction-to-the-portfolio-page/introduction-to-resources-page/notifications.md)
-* [Settings](program-users/settings/README.md)
-  * Profile
-  * Presentation
-  * [My profile](program-users/settings/editing-user-profiles.md)
-  * Members
-  * Labels
-* [Stewards](program-users/stewards.md)
-* [Changing active portfolio](program-users/changing-active-portfolio.md)
+  * [Settings](program-users/introduction-to-the-portfolio-page/settings/README.md)
+    * Profile
+    * Presentation
+    * [My profile](program-users/introduction-to-the-portfolio-page/settings/editing-user-profiles.md)
+    * Members
+    * Labels
+    * Communication
+    * [Batches](program-users/introduction-to-the-portfolio-page/settings/batches.md)
 * Introduction to Admin
 
 ## Advanced Users
 
-* [Batches](advanced-users/batches.md)
-* [Categories](advanced-users/categories.md)
-* Creating or editing a selection process
 * [Introduction to tenant page](advanced-users/introduction-to-tenant-page.md)
-* [Testing and editing surveys](advanced-users/testing-and-editing-surveys.md)
 
 ## FAQ
 
 * [Difference between test site and production site](misc/difference-between-test-site-and-production-site.md)
+* [Changing active portfolio](misc/changing-active-portfolio.md)
 
