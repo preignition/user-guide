@@ -23,7 +23,7 @@
     * [Categories](program-users/introduction-to-the-portfolio-page/introduction-to-resources-page/categories.md)
     * [Notifications](program-users/introduction-to-the-portfolio-page/introduction-to-resources-page/notifications.md)
   * [Settings](program-users/introduction-to-the-portfolio-page/settings/README.md)
-    * Profile
+    * [Profile](program-users/introduction-to-the-portfolio-page/settings/profile.md)
     * Presentation
     * [My profile](program-users/introduction-to-the-portfolio-page/settings/editing-user-profiles.md)
     * Members
