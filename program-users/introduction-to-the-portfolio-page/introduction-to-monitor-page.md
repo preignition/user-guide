@@ -1,11 +1,11 @@
 ---
-description: This section introduces Program Users to the Monior Page
+description: This section introduces users to the Monior Page
 ---
 
 # Monitor
 
 {% hint style="warning" %}
-This page is currently under development
+The Monitor page is currently under development
 {% endhint %}
 
 
