@@ -1,5 +1,7 @@
 ---
-description: This section introduces users to the resources page
+description: >-
+  This section introduces the resources page.  It is intended for Program Users
+  and Advanced Users.
 ---
 
 # Resources
