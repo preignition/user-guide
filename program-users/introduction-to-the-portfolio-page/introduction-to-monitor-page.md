@@ -2,7 +2,7 @@
 description: This section introduces Program Users to the Monior Page
 ---
 
-# Introduction to Monitor Page
+# Monitor
 
 {% hint style="warning" %}
 This page is currently under development

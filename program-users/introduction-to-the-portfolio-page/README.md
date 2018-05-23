@@ -1,10 +1,10 @@
 ---
 description: >-
-  This section introduces Program Users to the main features accessible on the
-  portfolio page
+  This section introduces users to the main features accessible on the portfolio
+  page
 ---
 
-# Introduction to the portfolio page
+# Portfolio
 
 ### Step 1- Logging on
 

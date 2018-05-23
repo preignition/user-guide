@@ -2,7 +2,7 @@
 description: This section introduces users to the selection page
 ---
 
-# Introduction to the selection page
+# Selection
 
 ### Step 1- Accessing the selection page
 
