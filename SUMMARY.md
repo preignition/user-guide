@@ -4,9 +4,9 @@
 
 ## Entrepreneurs
 
-* [Applying to a program](entrepreneurs/applying-to-a-program.md)
+* [Homepage](entrepreneurs/applying-to-a-program.md)
+* [Creating an account](entrepreneurs/sign-in-into-your-account.md)
 * [Entrepreneur space](entrepreneurs/entrepreneur-space.md)
-* [Sign-in into your account](entrepreneurs/sign-in-into-your-account.md)
 
 ## USERS \(PROGRAM AND ADVANCED\)
 
@@ -30,8 +30,8 @@
     * [Labels](program-users/introduction-to-the-portfolio-page/settings/labels.md)
     * [Communication](program-users/introduction-to-the-portfolio-page/settings/communication.md)
     * [Batches](program-users/introduction-to-the-portfolio-page/settings/batches.md)
-* Introduction to Admin
-  * [Introduction to tenant page](program-users/introduction-to-admin/introduction-to-tenant-page.md)
+* Admin
+  * [Tenants](program-users/introduction-to-admin/introduction-to-tenant-page.md)
 
 ## USERS FAQ
 
@@ -42,4 +42,5 @@
 
 * [What happens if i forget my password?](misc/what-happens-if-i-forget-my-password.md)
 * Untitled
+* Applying for a program
 

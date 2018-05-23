@@ -1,4 +1,4 @@
-# Introduction to tenant page
+# Tenants
 
 content under development
 
