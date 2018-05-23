@@ -48,8 +48,8 @@ Refer to the [Monitor](https://docs.preignition.org/~/edit/primary/program-users
 
 ![Entry point for reporting](../../.gitbook/assets/image%20%2820%29.png)
 
-* This section allows Program Users to report on the progress if an individual business, a cohort of businesses of the overall program.
-* Program Users are also able to access detailed information on an individual business
+* This section allows users to report on the progress of an individual business, a cohort of businesses or the overall program.
+* Users are also able to access detailed information on an individual business
 
 {% hint style="warning" %}
 Refer to the [Businesses](https://docs.preignition.org/~/edit/primary/program-users/introduction-to-the-portfolio-page/businesses) page for more details.  This feature is under development
@@ -59,7 +59,7 @@ Refer to the [Businesses](https://docs.preignition.org/~/edit/primary/program-us
 
 ![Entry point for managing program resources](../../.gitbook/assets/image%20%2827%29.png)
 
-* This section allows users to set up and manage key resources such as surveys, work flows, notifications etc
+* This section allows users to set up and manage key resources for a program such as surveys, work flows, notifications etc
 
 {% hint style="info" %}
 Refer to the[ Resources](https://docs.preignition.org/~/edit/primary/program-users/introduction-to-the-portfolio-page/introduction-to-resources-page) page for more details
@@ -67,7 +67,7 @@ Refer to the[ Resources](https://docs.preignition.org/~/edit/primary/program-use
 
 ### Step 7- Settings
 
-![Entry point for managing a programs settings](../../.gitbook/assets/image%20%2838%29.png)
+![Entry point for managing a program&apos;s settings](../../.gitbook/assets/image%20%2838%29.png)
 
 * This section allows users to define and edit key settings for a program such as language, currency, user rights etc.
 
