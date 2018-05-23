@@ -8,8 +8,6 @@ description: This section introduces Preignition's User Guide
 
 This user guide is intended to provide a user with clear instructions so they can use Preignition effectively.
 
-Please contact info@preignition.org if these instructions are not clear or if you still have questions.
-
 ### Audience
 
 There are 3 separate audiences for this user guide.
@@ -21,5 +19,7 @@ There are 3 separate audiences for this user guide.
 
 ### Structure
 
+The User Guide has been structured around the 3 audiences described above.  The first section is intended for entrepreneurs, the second section for Program Users and the third section for Advanced Users.  There is then a Frequently Asked Question section.
 
+Please contact info@preignition.org if these instructions are not clear or if you still have questions.
 

@@ -29,11 +29,8 @@
 * [Batches](advanced-users/batches/README.md)
   * [Categories](advanced-users/batches/categories.md)
 * Creating or editing a selection process
+* [Introduction to tenant page](advanced-users/introduction-to-tenant-page.md)
 * [Testing and editing surveys](advanced-users/testing-and-editing-surveys.md)
-
-## Tenants
-
-* [Introduction to tenant page](tenants/introduction-to-tenant-page.md)
 
 ## Misc
 
