@@ -4,13 +4,13 @@ description: >-
   site.  It is intended for Program Users and Advanced Users.
 ---
 
-# Difference between test site and production site
+# Production site v Test Site
 
 ### Production Site
 
 The main site for Preignition is hosted at [www.preignition.org ](https://preignition.org/main/home)
 
-![](../.gitbook/assets/image%20%2836%29.png)
+![](../.gitbook/assets/image%20%2837%29.png)
 
 * The production site contains live data, ie actual entrepreneurs applying for actual programs.
 * The production site should be stable at all times.
@@ -19,7 +19,7 @@ The main site for Preignition is hosted at [www.preignition.org ](https://preign
 
 The test site for Preignition is hosted at [https://readiness.firebaseapp.com](https://readiness.firebaseapp.com/main/home)
 
-![](../.gitbook/assets/image%20%2844%29.png)
+![](../.gitbook/assets/image%20%2845%29.png)
 
 * The test site contains test data.
 * New features are developed and tested on the test site

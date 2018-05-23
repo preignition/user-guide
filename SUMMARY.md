@@ -36,7 +36,7 @@
 
 ## USERS FAQ
 
-* [Difference between test site and production site](advanced-users/difference-between-test-site-and-production-site.md)
+* [Production site v Test Site](advanced-users/difference-between-test-site-and-production-site.md)
 * [Changing active portfolio](advanced-users/changing-active-portfolio.md)
 
 ## Entrepreneurs FAQ

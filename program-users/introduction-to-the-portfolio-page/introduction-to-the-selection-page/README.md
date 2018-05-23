@@ -11,13 +11,13 @@ description: >-
 * The selection page is accessed via the [portfolio page](https://docs.preignition.org/~/edit/primary/program-users/introduction-to-the-portfolio-page)
 * The name of the active program is clearly indicated, as well as recent activity on the selection process
 
-![Showing the portfolio page for a &apos;Test Program&apos;](../../../.gitbook/assets/image%20%2824%29.png)
+![Showing the portfolio page for a &apos;Test Program&apos;](../../../.gitbook/assets/image%20%2825%29.png)
 
 ### Step 2- Overview of the selection page
 
 * Clicking on the ‘selection’ icon takes you though to the following screen
 
-![](../../../.gitbook/assets/image%20%2850%29.png)
+![](../../../.gitbook/assets/image%20%2851%29.png)
 
 | **Selection** | Gives an overview of the selection workflow.   |  |
 | --- | --- | --- |
@@ -26,7 +26,7 @@ description: >-
 
 ### Step 3- Selection stages explained
 
-![](../../../.gitbook/assets/image%20%2820%29.png)
+![](../../../.gitbook/assets/image%20%2821%29.png)
 
 {% hint style="info" %}
 Programs are able to define their own selection process so it may have more or less stages than shown above.   Refer to '[Creating or editing a selection process](https://docs.preignition.org/~/edit/primary/creating-or-editing-a-selection-process)' for further guidance 
@@ -37,7 +37,7 @@ Programs are able to define their own selection process so it may have more or l
 * The selection dashboard is interactive and can be used to filter the business list
 * In this example businesses can be filtered based on their batch, category, sector or registration type
 
-![](../../../.gitbook/assets/image%20%2841%29.png)
+![](../../../.gitbook/assets/image%20%2842%29.png)
 
 
 
@@ -45,22 +45,22 @@ Programs are able to define their own selection process so it may have more or l
 
 * Clicking on a node in the selection process will show the businesses at that particular stage
 
-![In this example 29 businesses have completed the first survey and are waiting to be reviewed](../../../.gitbook/assets/image%20%281%29.png)
+![In this example 29 businesses have completed the first survey and are waiting to be reviewed](../../../.gitbook/assets/image%20%282%29.png)
 
 ### Step 6- Viewing detailed information submitted by a businesses
 
 *  The surveys associated with a particular stage of the selection process are shown under 'Business List'
 *  Highlighting a survey will bring up a new column showing the % completion of the selected survey
 
-![As expected at the review stage, all surveys are 100% complete](../../../.gitbook/assets/image%20%2852%29.png)
+![As expected at the review stage, all surveys are 100% complete](../../../.gitbook/assets/image%20%2854%29.png)
 
 * Clicking on a business, brings up more details about the selected business
 
-![](../../../.gitbook/assets/image%20%2816%29.png)
+![](../../../.gitbook/assets/image%20%2817%29.png)
 
 * From here completed surveys can be viewed
 
-![](../../../.gitbook/assets/image%20%282%29.png)
+![](../../../.gitbook/assets/image%20%283%29.png)
 
 {% hint style="warning" %}
 The ‘business details’ icon links through to a ‘business profile page’ which is under development
