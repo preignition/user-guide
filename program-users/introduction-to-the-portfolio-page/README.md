@@ -31,7 +31,7 @@ description: >-
 * The graph shows the number of businesses that have applied to the program in the last month
 
 {% hint style="info" %}
-Refer to the [‘introduction to the selection page](https://docs.preignition.org/~/edit/primary/program-users/introduction-to-the-selection-page)’ for more details
+Refer to the [introduction to the selection page](https://docs.preignition.org/~/edit/primary/program-users/introduction-to-the-selection-page)’for more details
 {% endhint %}
 
 ### Step 4- Monitor
@@ -41,7 +41,7 @@ Refer to the [‘introduction to the selection page](https://docs.preignition.or
 * This section enables a user to monitor recent activity on the program and performance of the application
 
 {% hint style="warning" %}
-Refer to the '[Introduction to monitor page](https://docs.preignition.org/~/edit/primary/program-users/introduction-to-monitor-page)' for more details.  This feature is under development
+Refer to the [Introduction to monitor page](https://docs.preignition.org/~/edit/primary/program-users/introduction-to-monitor-page) for more details.  This feature is under development
 {% endhint %}
 
 ### Step 5- Resources
