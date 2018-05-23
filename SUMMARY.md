@@ -19,11 +19,12 @@
   * [Businesses](program-users/introduction-to-the-portfolio-page/businesses.md)
   * [Resources](program-users/introduction-to-the-portfolio-page/introduction-to-resources-page/README.md)
     * [Notifications](program-users/introduction-to-the-portfolio-page/introduction-to-resources-page/notifications.md)
-  * [Settings](program-users/introduction-to-the-portfolio-page/settings/README.md)
-    * Profile
-    * Presentation
-    * [My profile](program-users/introduction-to-the-portfolio-page/settings/editing-user-profiles.md)
+* [Settings](program-users/settings/README.md)
+  * Profile
+  * Presentation
+  * [My profile](program-users/settings/editing-user-profiles.md)
   * Members
+  * Labels
 * [Stewards](program-users/stewards.md)
 * [Changing active portfolio](program-users/changing-active-portfolio.md)
 * Introduction to Admin
