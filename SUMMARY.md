@@ -12,14 +12,14 @@
 ## Program Users
 
 * [Portfolio](program-users/introduction-to-the-portfolio-page/README.md)
-  * Businesses
-  * [Monitor](program-users/introduction-to-the-portfolio-page/introduction-to-monitor-page.md)
-  * [Resources](program-users/introduction-to-the-portfolio-page/introduction-to-resources-page/README.md)
-    * [Notifications](program-users/introduction-to-the-portfolio-page/introduction-to-resources-page/notifications.md)
   * [Selection](program-users/introduction-to-the-portfolio-page/introduction-to-the-selection-page/README.md)
     * [Reviewing a business](program-users/introduction-to-the-portfolio-page/introduction-to-the-selection-page/reviewing-a-business.md)
     * [Moving a business through the selection process](program-users/introduction-to-the-portfolio-page/introduction-to-the-selection-page/moving-a-business-through-the-selection-process.md)
-* [Introduction to Settings](program-users/introduction-to-settings.md)
+  * [Monitor](program-users/introduction-to-the-portfolio-page/introduction-to-monitor-page.md)
+  * Businesses
+  * [Resources](program-users/introduction-to-the-portfolio-page/introduction-to-resources-page/README.md)
+    * [Notifications](program-users/introduction-to-the-portfolio-page/introduction-to-resources-page/notifications.md)
+  * Settings
 * [Stewards](program-users/stewards.md)
 * [Editing user profiles](program-users/editing-user-profiles.md)
 * [Changing active portfolio](program-users/changing-active-portfolio.md)
@@ -37,5 +37,4 @@
 ## FAQ
 
 * [Difference between test site and production site](misc/difference-between-test-site-and-production-site.md)
-* Settings
 
