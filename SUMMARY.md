@@ -21,7 +21,7 @@
     * [Notifications](program-users/introduction-to-the-portfolio-page/introduction-to-resources-page/notifications.md)
   * [Settings](program-users/introduction-to-the-portfolio-page/settings.md)
 * [Stewards](program-users/stewards.md)
-* [Editing user profiles](program-users/editing-user-profiles.md)
+* [User profiles](program-users/editing-user-profiles.md)
 * [Changing active portfolio](program-users/changing-active-portfolio.md)
 * Introduction to Admin
 * [Introduction to Users](program-users/introduction-to-users.md)

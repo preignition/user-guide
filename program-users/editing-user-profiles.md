@@ -1,4 +1,4 @@
-# Editing user profiles
+# User profiles
 
 content under development
 
