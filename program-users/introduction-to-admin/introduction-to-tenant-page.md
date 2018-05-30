@@ -1,4 +1,0 @@
-# Tenants
-
-content under development
-
