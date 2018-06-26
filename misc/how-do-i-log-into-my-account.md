@@ -1,8 +1,10 @@
 ---
-description: This page describes how an entrepreneur logs into their preignition account
+description: >-
+  This page describes how an entrepreneur logs back into their preignition
+  account
 ---
 
-# How do I log into my account
+# How do I log back into my account?
 
 ### Question
 
