@@ -8,13 +8,13 @@ description: This page describes how entrepreneurs can view and edit their user 
 
 * Entrepreneurs can customize their user profile from their entrepreneur space
 
-![](../../.gitbook/assets/image%20%2812%29.png)
+![](../../.gitbook/assets/image%20%2813%29.png)
 
 ### Step 2- Editing a profile {#step-2-editing-a-profile}
 
 * Activate the slider entitled 'Edit my profile'
 
-![](../../.gitbook/assets/image%20%2852%29.png)
+![](../../.gitbook/assets/image%20%2856%29.png)
 
 * All fields on this page can now be edited, including
   * Name
@@ -27,7 +27,7 @@ description: This page describes how entrepreneurs can view and edit their user 
 * The example below shows the process of updating an email address from jerrytest46@tindercapial.com to jerrytest46@tindercapital.com
 * Click on 'Update email address'
 
-![](../../.gitbook/assets/image%20%2813%29.png)
+![](../../.gitbook/assets/image%20%2814%29.png)
 
 * Enter your new address at 1 \(jerrytest46@tindercapital.com\)
 * You will be asked to send a verification message to this new email address
@@ -35,7 +35,7 @@ description: This page describes how entrepreneurs can view and edit their user 
 * Before the email address is updated you will have to enter your previous email address and password.
 * Enter your previous email address here, ie jerrytest46@tindercapial.com
 
-![](../../.gitbook/assets/image%20%2866%29.png)
+![](../../.gitbook/assets/image%20%2870%29.png)
 
 * Check your email for your new email account \(jerrytest46@tindercapital.com\) and click on the link to verify the new email address
 
