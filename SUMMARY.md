@@ -13,4 +13,5 @@
 ## FAQ
 
 * [What happens if i forget my password?](misc/what-happens-if-i-forget-my-password.md)
+* [How do I log into my account](misc/how-do-i-log-into-my-account.md)
 
