@@ -46,7 +46,7 @@ description: This page describes how entrepreneurs can view and edit their user 
 
 
 
-* In some instances you may encounter an additional security check.
+* In some instances, such as if the account hasn't been used recently, you may encounter an additional security check.
 * Before the email address is updated you will have to enter your old email address and password.
 * Enter your old email address here, ie est01@tindercapial.com
 
