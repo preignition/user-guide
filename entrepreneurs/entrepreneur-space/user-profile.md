@@ -8,13 +8,13 @@ description: This page describes how entrepreneurs can view and edit their user 
 
 * Entrepreneurs can customize their user profile from their entrepreneur space
 
-![](../../.gitbook/assets/image%20%2813%29.png)
+![](../../.gitbook/assets/image%20%2820%29.png)
 
 ### Step 2- Editing a profile {#step-2-editing-a-profile}
 
 * Activate the slider entitled 'Edit my profile'
 
-![](../../.gitbook/assets/image%20%2856%29.png)
+![](../../.gitbook/assets/image%20%2876%29.png)
 
 * All fields on this page can now be edited, including
   * Name
@@ -24,38 +24,47 @@ description: This page describes how entrepreneurs can view and edit their user 
 
 ### Step 3- Updating an email address {#step-3-updating-an-email-address}
 
-* The example below shows the process of updating an email address from jerrytest46@tindercapial.com to jerrytest46@tindercapital.com
+* The example below shows the process of updating an email address from est01@tindercapital.com to test01@tindercapital.com
 * Click on 'Update email address'
 
-![](../../.gitbook/assets/image%20%2814%29.png)
+![](../../.gitbook/assets/image%20%2827%29.png)
 
-* Enter your new address at 1 \(jerrytest46@tindercapital.com\)
+
+
+* Enter your new address at 1 \(test01@tindercapital.com\)
 * You will be asked to send a verification message to this new email address
-* This step checks that the new email address is valid
-* Before the email address is updated you will have to enter your previous email address and password.
-* Enter your previous email address here, ie jerrytest46@tindercapial.com
 
-![](../../.gitbook/assets/image%20%2870%29.png)
+![](../../.gitbook/assets/image%20%2847%29.png)
 
-* Check your email for your new email account \(jerrytest46@tindercapital.com\) and click on the link to verify the new email address
+* You will see a message confirming that a verification message has been sent to the new email address
+
+![](../../.gitbook/assets/image%20%2811%29.png)
+
+* Check your email account and verify the new email address
+
+![](../../.gitbook/assets/image%20%2816%29.png)
 
 
 
-![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LDglCKkoaiLL-wpvCjA%2F-LFbYc15DU6G1RqCD1_y%2F-LFbZwAkEgT-f10cn5t7%2Fimage.png?alt=media&token=1f06e69a-330e-4d42-a9d8-8f1212277c5d)
+* In some instances you may encounter an additional security check.
+* Before the email address is updated you will have to enter your old email address and password.
+* Enter your old email address here, ie est01@tindercapial.com
 
-You will now see a message confirming that your new email address has been verified.![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LDglCKkoaiLL-wpvCjA%2F-LFbVHWGuhMCXGDqQUPy%2F-LFbWjcpFEYjCq80aeKR%2Fimage.png?alt=media&token=f6259db1-2998-46fe-8e99-b37956d02f66)
+![](../../.gitbook/assets/image%20%2856%29.png)
 
 ### Step 4- Updating a profile picture {#step-4-updating-a-profile-picture}
 
 * Hover over the image field and click on the heading 'change image'
 * You will now be able to select an image stored on your computer
 
-![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LDglCKkoaiLL-wpvCjA%2F-LFbYc15DU6G1RqCD1_y%2F-LFbhUATZQJC_1USw9Id%2Fimage.png?alt=media&token=ec2295d5-7ff4-4edd-a3fb-c63bd4ca581e)
+![](../../.gitbook/assets/image%20%2818%29.png)
 
 ### Step 5- Updating a display name {#step-5-updating-a-display-name}
 
 * The display name is important as it is used throughout the platform to refer to the user.
-* It can be updated simply from the 'My profile' page
+* It can be updated by simply updating the 'display name' field
+
+![](../../.gitbook/assets/image%20%284%29.png)
 
 
 
