@@ -14,5 +14,5 @@ The audience for this user guide are entrepreneurs who use Preignition to apply 
 
 Entrepreneurs will only access a few areas of the platform such as the homepage and entrepreneurs space.  The user experience is highly intuitive and there should be no need to refer to this User Guide. 
 
-Please contact info@preignition.org if these instructions are not clear or if you still have questions.
+Please contact help@preignition.org if these instructions are not clear or if you still have questions.
 
