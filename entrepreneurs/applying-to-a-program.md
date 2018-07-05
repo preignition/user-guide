@@ -9,7 +9,7 @@ description: This page introduces the homepage for Preignition
 * The homepage can be accessed at [preignition.org](https://preignition.org/main/home) 
 * The homepage currently looks like this.
 
-![](../.gitbook/assets/image%20%2850%29.png)
+![](../.gitbook/assets/image%20%2853%29.png)
 
 ### Step 2- Applying for a program
 
