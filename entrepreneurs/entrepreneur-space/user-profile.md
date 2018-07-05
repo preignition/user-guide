@@ -14,7 +14,7 @@ description: This page describes how entrepreneurs can view and edit their user 
 
 * Activate the slider entitled 'Edit my profile'
 
-![](../../.gitbook/assets/image%20%2886%29.png)
+![](../../.gitbook/assets/image%20%2887%29.png)
 
 * All fields on this page can now be edited, including
   * Name
@@ -34,7 +34,7 @@ description: This page describes how entrepreneurs can view and edit their user 
 * Enter your new address at 1 \(test01@tindercapital.com\)
 * You will be asked to send a verification message to this new email address
 
-![](../../.gitbook/assets/image%20%2853%29.png)
+![](../../.gitbook/assets/image%20%2854%29.png)
 
 * You will see a message confirming that a verification message has been sent to the new email address
 
@@ -50,7 +50,7 @@ description: This page describes how entrepreneurs can view and edit their user 
 * Before the email address is updated you will have to enter your old email address and password.
 * Enter your old email address here, ie est01@tindercapial.com
 
-![](../../.gitbook/assets/image%20%2863%29.png)
+![](../../.gitbook/assets/image%20%2864%29.png)
 
 ### Step 4- Updating a profile picture {#step-4-updating-a-profile-picture}
 
