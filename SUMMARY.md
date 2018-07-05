@@ -5,7 +5,6 @@
 ## USER GUIDE
 
 * [Homepage](entrepreneurs/applying-to-a-program.md)
-* [Creating an account](entrepreneurs/sign-in-into-your-account.md)
 * [Applying for a program](entrepreneurs/applying-for-a-program.md)
 * [Entrepreneur space](entrepreneurs/entrepreneur-space/README.md)
   * [User profile](entrepreneurs/entrepreneur-space/user-profile.md)
