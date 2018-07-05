@@ -21,7 +21,7 @@ I have opened an account on Preignition but can't remember how to access it.
 *  If you are signed in already the homepage will look like this
 * You can proceed directly to your personalized 'entrepreneur space'
 
-![](../.gitbook/assets/image%20%2865%29.png)
+![](../.gitbook/assets/image%20%2867%29.png)
 
 #### Step 3
 
@@ -35,11 +35,11 @@ I have opened an account on Preignition but can't remember how to access it.
 * Enter your email and the password that you used to set up the account
 * Select sign-in
 
-![](../.gitbook/assets/image%20%2831%29.png)
+![](../.gitbook/assets/image%20%2832%29.png)
 
 #### Step 5
 
 * You will be taken back to the homepage where you will see the option to access your personalized 'entrepreneur space'
 
-![](../.gitbook/assets/image%20%2889%29.png)
+![](../.gitbook/assets/image%20%2894%29.png)
 
